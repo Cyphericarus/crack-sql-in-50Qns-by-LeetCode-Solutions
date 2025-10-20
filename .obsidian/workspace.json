@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "8c044872580257af",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb723b30036ca588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "393ae07200405b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-basic-joins/197. Rising Temperature.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "197. Rising Temperature"
+            }
+          },
+          {
+            "id": "32b65c46caf2c838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-basic-joins/1661. Average Time of Process per Machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1661. Average Time of Process per Machine"
+            }
+          },
+          {
+            "id": "4f1005bf84cd7630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-basic-joins/577. Employee Bonus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "577. Employee Bonus"
+            }
+          },
+          {
+            "id": "447d77bb3a223f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-basic-joins/1661. Average Time of Process per Machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1661. Average Time of Process per Machine"
+            }
+          },
+          {
+            "id": "4cfbfc0f9d86e68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-select/584. Find Customer Referee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "584. Find Customer Referee"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2274acfc5a6dee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d38e1e4d08fe5f51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f50232f923dcfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2de49e98d7ae0b96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "060b8fa6779b8be7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc1a46d46fad40e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c6b0c5c5b5a6803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48f9000677dc66d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "1dff5e163c4a2455",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "b9dfdcacc6099588",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33c5771ace90e23d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4cfbfc0f9d86e68b",
+  "lastOpenFiles": [
+    "02-basic-joins/570. Managers with at Least 5 Direct Reports.md",
+    "02-basic-joins/1661. Average Time of Process per Machine.md",
+    "02-basic-joins/1280. Students and Examinations.md",
+    "02-basic-joins/577. Employee Bonus.md",
+    "02-basic-joins/197. Rising Temperature.md",
+    "02-basic-joins/1068. Product Sales Analysis I.md",
+    "02-basic-joins/1378. Replace Employee ID With The Unique Identifier.md",
+    "02-basic-joins/1581. Customer Who Visited but Did Not Make Any Transactions.md",
+    "README.md",
+    "Xtra.md",
+    "01-select/1683. Invalid Tweets.md",
+    "01-select/1148. Article Views I.md",
+    "01-select/595. Big Countries.md",
+    "01-select/1757. Recyclable and Low Fat Products.md",
+    "01-select/584. Find Customer Referee.md",
+    "solutions/01-select-solutions/Solution for 1757.md",
+    "New Text Document.txt",
+    "solutions/01-select-solutions",
+    "solutions",
+    "07-advanced-string-functions-regex-clause",
+    "06-subqueries",
+    "05-advanced-select-and-joins",
+    "04-sorting-and-grouping",
+    "03-basic-aggregate-functions",
+    "02-basic-joins",
+    "01-select",
+    "Welcome.md"
+  ]
+}
